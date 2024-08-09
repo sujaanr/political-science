@@ -8,11 +8,7 @@ This repository contains a dataset that tracks political polarization in the US 
 
 - **Polarization Dataset**: This dataset (`polarization.csv`) contains 145 rows and 22 columns.
 - **House and Senate Members Dataset**: This dataset (`members.csv`) contains 50,484 rows and 22 columns.
-- **Creation Date**: March 3rd, 2023
 
-This analysis was made possible thanks to Jeff Lewis of the UCLA Political Science department, whose work with the data provided the foundation for the code in this repository.
-
-## Creating Visualizations
 
 ### Loading and Installing Dependencies
 
