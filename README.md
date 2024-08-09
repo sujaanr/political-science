@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a dataset that tracks political polarization in the US Congress from the 46th to the 117th Congress (years 1879 to 2023). The primary data source is Voteview's official website, which publishes comprehensive ideological data on American politics. Given the meticulous documentation of congressional activities by such a reputable organization, Voteview provides unparalleled insight into US polarization trends.
+This repository contains a dataset that tracks political polarization in the US Congress from the 46th to the 117th Congress (years 1879 to 2023). The primary data source is Voteview's official website, which publishes comprehensive ideological data on American politics.
 
 ### Dataset Details
 
